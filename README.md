@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Laxman
 
-<!--
-**luckynp85/luckynp85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Reliability engineer who codes.** I build interactive, visual explainers and practical tools for life-data analysis, so the math behind MTBF, Weibull and FMEA is something you can *see*.
 
-Here are some ideas to get you started:
+- **Reliability, Visually**: [luckynp85.github.io](https://luckynp85.github.io)
+- **LinkedIn**: [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/laxman-pangeni)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+- **Life-data analysis:** Weibull, lognormal and exponential fits, MLE vs rank regression, censored data
+- **Reliability metrics:** MTBF / MTTF, B10 life, confidence bounds
+- **Design for reliability:** FMEA, HALT / HASS, reliability test planning
+- **Tools:** Python, JavaScript, interactive visualisation
+
+### Featured
+
+| Project | What it is |
+|---|---|
+| [The likeliest curve](https://luckynp85.github.io/mle/) | Interactive explainer of Maximum Likelihood Estimation for reliability data |
+| *Weibull vs lognormal* | Coming soon |
+
+### Say hello
+
+Questions, corrections or ideas for the next explainer are welcome. Open an issue on any repo or message me on LinkedIn.
