@@ -3,7 +3,7 @@
 **Reliability engineer who codes.** I build interactive, visual explainers and practical tools for life-data analysis, so the math behind MTBF, Weibull and FMEA is something you can *see*.
 
 - **Reliability, Visually**: [luckynp85.github.io](https://luckynp85.github.io)
-- **LinkedIn**: [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/laxman-pangeni)
+- **LinkedIn**: [linkedin.com/in/laxman-pangeni](https://www.linkedin.com/in/laxman-pangeni)
 
 ### What I work on
 
